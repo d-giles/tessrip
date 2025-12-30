@@ -167,7 +167,18 @@ For further information, please see the `Lightkurve Community guidelines <https:
 Citing
 ======
 
-If you find ``tesscube`` useful in your research, please cite it and give us a GitHub star!
+If you find ``tesscube`` useful in your research, please cite it and give us a GitHub star! The current citation is in the ``CITATION.cff`` file, or you can click the **"Cite this repository"** button on GitHub.
+
+In BibTeX, use the following citation:
+
+.. code-block:: bibtex
+
+   @software{Hedges_tesscube,
+     author  = {Hedges, Christina and {TESS Science Support Center}},
+     title   = {tesscube},
+     url     = {https://github.com/tessgi/tesscube},
+     version = {1.2.1}
+   }
 
 If you use Lightkurve for work or research presented in a publication, we request the following acknowledgment or citation:
 
@@ -192,6 +203,7 @@ Please include a self-contained example that fully demonstrates your problem or 
 .. <!-- Contact content end -->
 
 .. <!-- Changelog content start -->
+
 
 Changelog:
 ==========
